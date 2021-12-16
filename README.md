@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mohammed!
-- 👀 I’m interested in Java and Android App Development!
-- 🌱 I’m currently studying Software Engineering at the University of Westminster!
-- 💞️ I’m looking to collaborate on GitHub!
+- 🔭 I'm currently working on a few projects in React.js, Android and B Language!  
+- 📱 I'm currently learning React, Android and iOS Development!
+- 📫 How to reach me: d2018c@gmail.com
 
 <!---
 :)
